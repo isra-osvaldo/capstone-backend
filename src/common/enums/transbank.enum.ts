@@ -1,0 +1,5 @@
+export enum TransbankEnum {
+  AUTHORIZED = 'AUTORIZADA',
+  REJECTED = 'RECHAZADA',
+  REVERSED = 'REVERSADA',
+}
